@@ -1,0 +1,34 @@
+[Info  - 1:52:50 AM] (84896) Pylance language server 2022.3.4 (pyright 0d16617a) starting
+[Info  - 1:52:50 AM] (84896) Server root directory: /home/samucancld/.vscode/extensions/ms-python.vscode-pylance-2022.3.4/dist
+[Info  - 1:52:51 AM] (84896) No configuration file found.
+[Info  - 1:52:51 AM] (84896) No pyproject.toml file found.
+[Info  - 1:52:51 AM] (84896) Setting pythonPath for service "free-code-camp-python": "/bin/python3.10"
+[Warn  - 1:52:51 AM] (84896) stubPath /home/samucancld/Documents/free-code-camp-python/typings is not a valid directory.
+[Info  - 1:52:51 AM] (84896) Assuming Python version 3.10
+[Info  - 1:52:51 AM] (84896) Assuming Python platform Linux
+[Warn  - 1:52:51 AM] (84896) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 1:52:51 AM] (84896) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 1:52:51 AM] (84896) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 1:52:51 AM] (84896) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 1:52:51 AM] (84896) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 1:52:51 AM] (84896) Searching for source files
+[Info  - 1:52:51 AM] (84896) Found 1 source file
+[Info  - 1:52:51 AM] (84896) Background analysis(1) root directory: /home/samucancld/.vscode/extensions/ms-python.vscode-pylance-2022.3.4/dist
+[Info  - 1:52:51 AM] (84896) Background analysis(1) started
+[Info  - 1:52:52 AM] (84896) Indexer background runner(2) root directory: /home/samucancld/.vscode/extensions/ms-python.vscode-pylance-2022.3.4/dist (index)
+[Info  - 1:52:52 AM] (84896) Indexing(2) started
+[Info  - 1:53:03 AM] (84896) [IDX(2)] Long operation: index execution environment /home/samucancld/Documents/free-code-camp-python (9863ms)
+[Info  - 1:53:03 AM] (84896) [IDX(2)] Long operation: index libraries /home/samucancld/Documents/free-code-camp-python (11148ms)
+[Info  - 1:53:03 AM] (84896) Indexer done(2). indexed 655 files
+[Info  - 1:55:35 AM] (84896) Searching for source files
+[Info  - 1:55:35 AM] (84896) Found 1 source file
+[Info  - 1:57:04 AM] (84896) Searching for source files
+[Info  - 1:57:04 AM] (84896) Found 2 source files
+[Info  - 2:19:12 AM] (84896) Searching for source files
+[Info  - 2:19:13 AM] (84896) Found 3 source files
+[Info  - 2:34:02 AM] (84896) Searching for source files
+[Info  - 2:34:02 AM] (84896) Found 3 source files
+[Info  - 2:34:20 AM] (84896) Searching for source files
+[Info  - 2:34:20 AM] (84896) Found 3 source files
+[Info  - 2:34:31 AM] (84896) Searching for source files
+[Info  - 2:34:31 AM] (84896) Found 4 source files

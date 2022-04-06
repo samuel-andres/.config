@@ -1,0 +1,20 @@
+[2022-04-04T00:02:59.507Z] Validating found git in: git
+[2022-04-04T00:02:59.677Z] Using git 2.35.1 from git
+[2022-04-04T00:02:59.854Z] > git rev-parse --git-dir [65ms]
+[2022-04-04T00:02:59.867Z] Open repository: /home/samucancld/workspace/miweb
+[2022-04-04T00:02:59.995Z] > git symbolic-ref --short HEAD [13ms]
+[2022-04-04T00:03:00.015Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [6ms]
+[2022-04-04T00:03:00.085Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [52ms]
+[2022-04-04T00:03:00.104Z] > git remote --verbose [41ms]
+[2022-04-04T00:03:00.168Z] > git config --get commit.template [10ms]
+[2022-04-04T00:03:22.330Z] > git ls-files --stage -- /home/samucancld/workspace/miweb/.env [2ms]
+[2022-04-04T00:03:22.928Z] > git symbolic-ref --short HEAD [1ms]
+[2022-04-04T00:03:22.935Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [2ms]
+[2022-04-04T00:03:22.957Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+[2022-04-04T00:03:22.957Z] > git remote --verbose [2ms]
+[2022-04-04T00:03:22.967Z] > git config --get commit.template [2ms]
+[2022-04-04T00:03:51.385Z] > git symbolic-ref --short HEAD [7ms]
+[2022-04-04T00:03:51.403Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [5ms]
+[2022-04-04T00:03:51.421Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+[2022-04-04T00:03:51.423Z] > git remote --verbose [4ms]
+[2022-04-04T00:03:51.447Z] > git config --get commit.template [6ms]

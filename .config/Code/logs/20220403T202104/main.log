@@ -1,0 +1,8 @@
+[2022-04-03 20:21:04.270] [main] [info] window#load: attempt to load window (id: 1)
+[2022-04-03 20:21:04.293] [main] [info] update#setState idle
+[2022-04-03 20:21:04.403] [main] [info] ExtensionHostStarterWorker created
+[2022-04-03 20:21:05.917] [main] [info] window#load: window reported ready (id: 1)
+[2022-04-03 20:21:06.474] [main] [info] Starting extension host with pid 372712 (fork() took 30 ms).
+[2022-04-03 20:21:06.474] [main] [info] ExtensionHostStarterWorker.start() took 44 ms.
+[2022-04-03 20:21:12.886] [main] [info] Waiting for extension host with pid 372712 to exit.
+[2022-04-03 20:21:12.957] [main] [info] Extension host with pid 372712 exited with code: 0, signal: null.
