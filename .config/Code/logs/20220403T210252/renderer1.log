@@ -1,9 +1,0 @@
-[2022-04-03 21:02:56.093] [renderer1] [error] Error: File not found
-    at g.handleSetInputError (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2636:112725)
-    at async g.setInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2636:112400)
-    at async i.doSetInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2636:26823)
-    at async i.doOpenEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2636:25196)
-    at async i.openEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2636:24822)
-    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2842:17260
-[2022-04-03 21:02:56.622] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
-[2022-04-03 21:02:57.919] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.

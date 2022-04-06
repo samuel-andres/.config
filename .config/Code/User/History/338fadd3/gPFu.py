@@ -1,2 +1,0 @@
-print("Giraffe\nAcademy")
-

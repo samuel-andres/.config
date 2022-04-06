@@ -21,6 +21,7 @@ de mirroring.
 	va a ejecurar el script definido en 'exec'. Acá configure el ip wlan0 que
 	se llama hackthebox, el ip eth0 que se llama ethernet y el módulo redwifi_name
 	que llama al script redwifi.sh. Todos estos scripts están en ~/.config/bin
+	upd: también hice uno que tira la tun0 por la que sale el vpn y la ip pública
 -launch.sh:
 	Es el script donde se definen que barras de la polybar se inician con el 
 	arranque del bspwm. Podemos tener barras nuevas definidas en current.ini
